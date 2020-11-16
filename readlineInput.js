@@ -10,4 +10,4 @@ takeInput.question("Enter first value??? ", function(x){
 
         takeInput.close();
     })
-})
+});
